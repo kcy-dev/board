@@ -1,0 +1,7 @@
+package com.sb.Repository;
+
+import java.util.List;
+
+public interface ReadingRepository extends JpaRepository<Book, Long> {
+	List<Book> findByReader(String reader);
+}

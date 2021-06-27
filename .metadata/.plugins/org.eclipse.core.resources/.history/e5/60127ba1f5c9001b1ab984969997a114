@@ -1,0 +1,21 @@
+package com.java.sb.Controller;
+
+import java.util.HashMap;
+
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class ExamController {
+
+	@RequestMapping
+	public HashMap<String, String> aba() {
+		HashMap<String, String > aa = new HashMap<>();
+ 		
+		return aa;
+	}
+	
+	public HashMap<String, String> aba() {
+	}
+	}
+}

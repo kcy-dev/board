@@ -1,0 +1,14 @@
+package com.sb.Controller;
+
+import javax.persistence.Entity;
+
+@Entity
+public class Reading {
+	private Long id;
+	private String reader;
+	private String isbn;
+	private String title;
+	private String author;
+	private String description;
+	
+}

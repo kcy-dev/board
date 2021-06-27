@@ -1,0 +1,6 @@
+package com.sb.Repository;
+
+
+public interface ReaderRepository extends JpaRepository<Reader, String> {
+    
+}

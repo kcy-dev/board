@@ -1,0 +1,15 @@
+package com.java.sb.Service.impl;
+
+import org.springframework.boot.autoconfigure.jdbc.JdbcTemplateAutoConfiguration;
+
+import com.java.sb.Service.ExamService;
+
+public class ExamServiceImpl implements ExamService {
+	@Override
+	public void Exam() {
+		// TODO Auto-generated method stub
+		
+	}
+	
+	public JdbcTemplate
+}

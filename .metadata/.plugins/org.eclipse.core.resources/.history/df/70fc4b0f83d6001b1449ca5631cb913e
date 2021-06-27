@@ -1,0 +1,6 @@
+package com.sb.Configuration;
+
+
+public class SecurityConfig extends WebMvcConfigurerAdapter {
+
+}
