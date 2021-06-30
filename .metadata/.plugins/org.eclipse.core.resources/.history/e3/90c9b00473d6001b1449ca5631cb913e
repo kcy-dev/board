@@ -1,8 +1,0 @@
-package com.sb.Dto;
-
-import javax.persistence.Entity;
-
-@Entity
-public class Book {
-
-}

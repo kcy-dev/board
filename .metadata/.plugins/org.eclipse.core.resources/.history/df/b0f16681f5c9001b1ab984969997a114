@@ -1,8 +1,0 @@
-package com.java.sb.Controller;
-
-import org.springframework.web.bind.annotation.RestController;
-
-@RestController
-public class ExamController {
-
-}

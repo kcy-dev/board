@@ -1,7 +1,0 @@
-package com.sb.Repository;
-
-public class ReadingRepository {
-	public interface ReadingRepository extends JpaRepostory<Book, Long> {
-		
-	}
-}

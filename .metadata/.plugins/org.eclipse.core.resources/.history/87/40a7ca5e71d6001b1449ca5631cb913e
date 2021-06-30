@@ -1,6 +1,0 @@
-package com.sb.Controller;
-
-@Entity
-public class Book {
-
-}

@@ -1,8 +1,0 @@
-package com.java.sb.Service.impl;
-
-import com.java.sb.Service.ExamService;
-
-public class ExamServiceImpl implements ExamService {
-	
-
-}

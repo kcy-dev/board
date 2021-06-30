@@ -1,9 +1,0 @@
-package com.sb.Controller;
-
-import javax.persistence.Entity;
-
-@Entity
-public class Reading {
-	private int aa;
-	
-}
